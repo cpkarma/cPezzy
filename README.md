@@ -74,4 +74,4 @@ invalid_line
 
 ## Support
 
-For issues or questions, contact Karma Syndicate via Telegram: [https://t.me/KarmaSyndicate](https://t.me/KarmaSyndicate)[https://t.me/xnabob](https://t.me/xnabob)
+For issues or questions, contact Karma Syndicate via Telegram: [https://t.me/KarmaSyndicate](https://t.me/KarmaSyndicate) - [https://t.me/xnabob](https://t.me/xnabob)
